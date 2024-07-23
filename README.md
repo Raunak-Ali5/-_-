@@ -1,3 +1,1 @@
-CodeAlpha Task-1
-<br>
-Calculator Program
+CodeAlpha Task-1 : Calculator Program
